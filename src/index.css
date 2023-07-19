@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  font-family:age ;
+  background-color: rgb(211, 211, 211);
+  
+  
+}
+@font-face {
+  font-family: age;
+  src: url('./fonts/Poppins-Bold.ttf');
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
